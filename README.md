@@ -111,3 +111,18 @@ The repository includes visualizations showing:
 3. **Final Path**: Optimized path discovered by the hybrid planner.
 
 Generated visualizations and videos are saved in the `test_results/` directory.
+
+
+---
+
+## Reference
+
+- @misc{ichter2019learningsamplingdistributionsrobot,
+      title={Learning Sampling Distributions for Robot Motion Planning}, 
+      author={Brian Ichter and James Harrison and Marco Pavone},
+      year={2019},
+      eprint={1709.05448},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/1709.05448}, 
+}
